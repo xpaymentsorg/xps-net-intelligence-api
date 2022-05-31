@@ -23,5 +23,5 @@ npm install
 npm start
 ```
 
-It is a fork of eth-net-intelligence-ap.<br>
-Official eth-netstats Repository: https://github.com/cubedro/eth-net-intelligence-api<br>
+It is a fork of eth-net-intelligence-api.<br>
+Official eth-net-intelligence-api Repository: https://github.com/cubedro/eth-net-intelligence-api<br>
